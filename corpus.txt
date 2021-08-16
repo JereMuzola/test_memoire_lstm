@@ -1,0 +1,780 @@
+les personnes dont la condition médicale particulière empêche le port du couvre-visage ainsi que celles qui ne sont pas capables de le mettre ou de le retirer par elles-mêmes ne devraient pas le porter.	bato bazalaka na pasi ya kopema to bazali handicappé to baye basengaka lisalisi pona kolongola ezipeli ya elongi esengeli balata yango te.
+mettre.	kotia.
+mettre.	kolata.
+quand.	tango.
+losrque.	tango.
+quoi.	nini.
+quand.	tango nini.
+Dans les transports en commun et scolaires.	Na ba transport ya banto nioso to pe ya ba kelasi.
+dans.	na.
+commun.	ya banto banso.
+scolaire.	ya kelasi.
+scolaire.	ya bana kelasi.
+classe.	kelasi.
+les élèves.	bana kelasi.
+élève.	mwana kelasi.
+Si tu es malade, reste à la maison.	Soki ozo bela, fanda na ndako.
+toi.	yo.
+tu es malade.	ozo bela.
+si.	soki.
+malade.	mobeli.
+malades.	babeli.
+etre malade.	kobela.
+soffrir.	kobela.
+souffrir d'une maladie.	kobela.
+reste.	fanda.
+reste.	tikala.
+rester.	kofanda.
+rester.	kotikala.
+la maison.	ndaku.
+Date d’apparition des symptômes.	Date oyo bilembo ebandaki komonana.
+Diagnostic de l’une des maladies suivantes.	Diagnostic ya moko ya makambo oyo.		
+maison.	ndaku.
+dans la maison.	na ndaku.
+Si tu as besoin d'aller à l'hopital.	Soki oza na posa kokende na cliniki to lopitalo.
+Le modèle d’obtention de l’informatique appropriée pour permettre la saisie des données requises a déjà été un succès, l’enregistrement des données ayant commencé la semaine où les codes ont été créés.	Modele ya bozwi bainformatiki elongobani mpo esalisa na kocapter badonnee esengami esi elongi, bongo nde bokomi ya badonnee ebandaki mokolo ya mposo bacode ebongisamaki.
+Qui plus est, la modification du système de surveillance existant afin de recueillir les données de la population de façon parallèle a également été efficace.	Na kobakisa, bokesenesi ya systeme ya bokengeli oyo esi esalama pona kokongola badonnee ya bato na nzela ya paralleli ezalaki pe na bolongi.
+Manifestations cliniques : (1) fièvre et/ou symptômes respiratoires ; (2) imagerie présentant les caractéristiques d’une infection au COVID-19 ; (3) numération totale des globules blancs indiquant une numération normale, diminuée ou réduite des lymphocytes dès le début des symptômes.	Bamanifestation ya cliniki: (1) fievre pe/to basymptomi ya bopemi; (2) na bilembo ya bilili ya bokono ya COVID-19 ; (3) lotango ya baglobule ya pembe nionso ezo lakisa normale, ekita, to lotango ya lymphocyte ekita na tango ya ebandeli.		
+hopital.	lopitalo.
+hopitaux.	bipitalo.
+clinique.	Kliniki.
+cliniques.	bikliniki.
+besoin.	posa.
+tu as besoin.	oza na posa.
+il a besoin. 	aza na posa.
+aller.	kokende.
+couvre-visage.	ezipeli.
+pourquoi.	pona nini.
+Les personnes infectées à la COVID-19 n’ont pas toutes des symptômes.	Moto nionso te oyo aza na COVID-19 azali na bilembo.
+symptome.	elembo.
+symptomes.	bilembo.
+Certaines personnes peuvent être infectées sans le savoir.	Bato mosusu kutu bazo yeba nabango te ete bakomi na bokoso.
+savoir.	koyeba.
+maladie.	bokono.
+certaines personnes.	bato misusu.
+Le port du couvre-visage pourrait permettre de diminuer le risque qu’une personne infectée transmette la COVID-19 à d’autres.	Kolata ezipeli ya elongi eko kokitisa likama moto ya kpokoso akabola COVID-19 na bato mosusu kozanga kutu koyeba.
+risque.	likama.
+risques.	makama.
+le risque.	likama.
+les risques.	makama.
+un risque.	likama.
+des risques.	makama.
+Placez le couvre-visage sur votre nez et votre bouche en le fixant derrière vos oreilles à l’aide des élastiques.	Na loboko moko, tia ezipeli nayo ya elongi likolo ya zolo na monoko. Salela loboko nayo mosusu pona kotia basinga to elastiki nango sima ya matoi nayo.
+placer.	kotia.
+nez.	zolo.
+bouche.	munoko.
+elastique.	molaso.
+elastique.	elastiki.
+derrière.	na sima.
+oreille.	litoyi.
+oreilles.	matoyi.
+une oreille.	litoyi.
+un oreille.	litoyi.
+les oreilles.	matoyi.
+des oreilles.	matoyi.
+oeil.	liso.
+yeux.	miso.
+yeux.	misu.
+un oeil.	liso.
+un oeil.	liso moko.
+les yeux.	ba miso.
+d'yeux.	ba miso.
+main.	loboko.
+mains.	maboko.
+une main.	loboko.
+une main.	loboko moko.
+la main.	loboko.
+des mains.	maboko ebele.
+les mains.	maboko.
+ventre.	libumu.
+ventres.	mabumu.
+pied.	lokolo.
+pieds.	makolo.
+doigt.	mosapi.
+doigts.	misapi.
+jambe.	lokolo.
+jambes.	lokolo.
+genou.	libolongo.
+genoux.	mabolongo.
+bouches.	minoko.
+langue.	lolemo.
+langues.	malemo.
+la dent.	linu.
+une dent.	linu moko.
+des dents.	minu ebele.
+les dents.	minu.
+j'ai mal à la tete.	nazo yoka moto pasi.
+j'ai mal.	nazo yoka pasi.
+j'ai mal aux yeux.	nazo yoka pasi na miso.
+maux de tete.	moto pasi.
+mal.	pasi.
+a la tete.	na moto.
+cheveu.	suki.
+cheveux.	ba suki.
+dent.	linu.
+dents.	minu.
+os.	mokuwa.
+un os.	mukuwa moko.
+des os.	mikuwa ebele.
+les os.	mikuwa.
+l'os.	mukuwa.
+os.	mikuwa.
+cuisse.	mopende.
+la cuisse.	mopende.
+une cuisse.	mopende moko.
+des cuisses.	mapende ebele.
+les cuisses.	mapende.
+cuisses.	mipende.
+pied.	litambe.
+pieds.	bitambe.
+hanche.	loketo.
+hanches.	maketo.
+ongle.	linzaka.
+ongles.	manzaka.
+chique.	liyanzi.
+chiques.	mayanzi.
+la chique.	liyanzi.
+j'ai mal à la dent.	nazo yoka lino pasi.
+il a mal.	azo yoka pasi.
+patient.	mobeli.
+patiente.	mobeli.
+le patient.	mobeli.
+la patiente.	mobeli.
+un patient.	mobeli moko.
+les patients.	babeli.
+des patients.	babeli.
+le patient a mal.	mobeli azo yoka pasi.
+les patients ont mal.	babeli bazo yoka pasi.
+Lavez-vous les mains AVANT et APRÈS l’utilisation.	Sokola maboko nayo LIBOSO na SIMA ya bosaleli ezipeli nayo.
+Ajustez votre couvre-visage sur votre nez.	Bongisa ezipeli ya elongi nayo na zolo nayo.
+Ajustez également sous votre menton.	Sik’oyo bongisa yango na se ya mbanga nayo.
+Changez le couvre-visage s’il est humide, souillé ou endommagé.	Sanze ezipeli nayo ya elongi soki ezwi mai, ekomi na mbindo, epasoki.
+endommagé.	epasoki.
+humide.	epoli.
+mouillé.	epoli.
+eau.	mayi.
+l'eau.	mayi.
+les eaux.	mayi.
+boire de l'eau.	komela mayi.
+boire.	komela.
+boire un médicament.	komela kisi.
+médicamment.	kisi.
+un médicamment.	kisi.
+le médicamment.	kisi. 
+bois le médicamment.	mela kisi.
+prendre le médicamment.	komela kisi.
+Ne gardez pas le couvre-visage accroché à votre cou ou pendu à une oreille.	Kotikaka te ezipeli ya elongi nayo ediembelaka na kingo nayo to na litoi moko. Tika yango efanda na elongi nayo pe kosimbaka yango te. Soki osimbi ezipeli nayo tango olati yango, sokola maboko nayo nionso malamu penza noki-noki.
+laver les mains.	kosokola maboko.
+laver.	kosokola.
+lavez vos mains.	bosokokola maboko.
+lavez ses mains.	sokola maboko na yo.
+lave tes mains.	sokola maboko.
+je lave.	nazo sokola.
+tu laves.	ozo sokola.
+il lave.	azo sokola.
+nous lavons.	tozo sokola.
+vous lavez.	bozo sokola.
+ils lavent.	bazo sokola.
+elles lavent.	bazo sokola.
+moi.	ngai.
+toi.	yo.
+lui.	ye.
+elle.	ye.
+Pour retirer le couvre-visage, saisissez uniquement les élastiques sans toucher le devant du couvre-visage.	Longola ezipeli na elongi nayo na bosimbi yango na singa to elasltiki kozanga kosimba liboso nayango.
+devant.	liboso.
+retirer.	kolongola.
+avoter.	kolongola zemi.
+grosesse.	zemi.
+elle a avorté.	alongoli zemi.
+toucher.	kosimba.
+A garder loin des enfants.	Ya kobomba mosika ya bana mikie.
+loin.	mosika.
+Repliez les parties intérieures du couvre-visage l’une sur l’autre et déposez-le dans un sac propre.Lavez votre couvre-visage dès votre retour à la maison avec le reste de votre lessive.	Linga bangambo ya libanda ya ezipeli esika moko pe tia yango na saki ya peto. Okoki kosokola ezipeli tango okokoma na ndako libela-libela, nzela moko na bilamba mosusu.
+Le lavage des mains.	Bosokoli ya maboko.
+La distanciation physique.	Distance kati ya bato.
+L’isolement à la maison si vous êtes malade.	Komikabola na ndako soki ozali kobela.
+COVID-19 – Fabriquez votre couvre-visage.	COVID-19–Ndenge nini oko kosala ezipeli nayo ya elongi.
+Vous pouvez fabriquer un couvre-visage à l’aide de matériaux disponibles à votre domicile.	Eza pasi te mpo osala ezipeli ya yomoko na materiaux amonanaka na ndako nayo.
+Utilisez, si possible, un tissu tissé serré et souple, tel le coton, qui permet à l’air de passer pendant votre respiration.	Soki elongobani salela elamba ya coton ya madusu mike-mike oyo elekisaka mopepe ya kopema na pasi te.
+respiration.	pema.
+respirer.	kopema.
+air.	mopepe.
+l'air.	mopepe.
+Utilisez au moins deux épaisseurs de tissu et assurez-vous que votre couvre-visage soit confortable et bien ajusté à votre visage.	Salela, toloba, bacouche mibale ya elamba pe sala nionso mpona ezipeli ya elongi nayo epemisa yo na pasi te pe esimba na elongi. 
+Vous devez pouvoir le laver et le sécher sans risque de l’abîmer ou de le déformer.	Esengeli okoka kosokola pe otia na masini ya kosokola à sec ezipeli kozanga kopasola yango to kolinga yango.
+Il existe de nombreuses façons de créer des couvre-visages en tissu.	Bandenge ya kosala bizipeli ya bilongi ezali ebele.
+Aide à la décision.	Monkano na Papela ya Mambi Makosala.
+Si vous avez des symptômes de la COVID-19.	Soki oza na bilembo bia kobela ya pasi ya COVID-19.
+Suivez les indications décrites dans ce tableau pour vous aider à prendre la meilleure décision pour vous et pour vos proches.	Landa bisaleli bitindami na mokanda monene oyo pona kosalisa yo ozwa monkano ya bosembo elongobani bongo yo na baninga ya pene-pene elongo na bato babolingo kati ya libota nayo.
+reponse.	eyano.
+reponses.	biyano.
+la réponse.	eyano.
+les reponses.	biyano.
+une reponse.	eyano moko.
+indication.	litindami.
+une indication.	litindami.
+l'indication.	litindami.
+les indications.	matindami.
+des indications.	matindami.
+décision.	mokano.
+En tout temps, appliquez les mesures d’hygiène et de prévention pour éviter la contamination.	Bambala nyonso osalela bopeto mpona bamezile ya kopekisa bokaboli ya pasi ya kobela.
+lavez-vous les mains souvent.	Sokola maboko nayo mbala-na-mbala.
+toussez ou éternuez dans le pli de votre coude, le haut de votre bras ou dans un mouchoir de papier plutôt que dans vos mains.	Kosola to tia kesia na bogunzami ya loboko, likolo ya manche ya loboko, to na mouchoire ya papela ya elongi, na maboko na misapi te.
+tousser.	kokosola.
+toux.	kosu-kosu.
+nettoyez votre environnement.	Keba obatela nzinga-nzinga nayo na bopeto.
+environnement.	nzinga-nzinga.
+soin.	bopeto.
+propre.	bopeto.
+Situation pour un adulte ou un enfant.	Pona Bakolo to bana.
+Je fais de la fièvre.	Na zali na fievre.
+je fais de la fièvre.	na zali na moto.
+fievre.	moto.
+j'ai des symptomes.	nazali na bilembo.
+tu as des symptomes.	ozali na bilembo.
+il a des symmptomes.	azali na bilembo.
+nous avons des symptomes.	toza na bilembo.
+apparition ou aggravation d’une toux.	Ebandeli to bokomi pasi makasi ya kosu-kosu. 
+difficultés respiratoires ou essouflement.	Pasi pona kopema. 
+écoulement nasal.	Miyoyo.
+congestion nasale.	Kokangama ya zolo.
+nausées.	Posa ya kosanza.
+vomissements.	Kosanza.
+maux de ventre.	Pasi ya libumu.
+fatigue extrême.	Kolemba makasi.
+perte soudaine de l’odorat sans congestion nasale, avec ou sans perte de goût.	Kozanga koyoka solo kaka mbala moko boye, kozanga kokangama zolo to kozanga kobungisa ntomo na lolemo.
+douleur musculaire.	Pasi na misuni.
+douleur muscuaire.	pasi na mikuwa.
+mal de tête.	moto kobeta
+perte d’appétit importante.	Kozanga posa ya kolia.
+manque d'appetit.	kozanga posa ya kolia.
+appetit.	posa ya kolia.
+manger.	kolia.
+mal de gorge.	pasi na mongongo.
+diarrhée.	pulu-pulu.
+j'ai la diarrhée.	nazali na pulu-pulu.
+je fais la diarrhée.	nazo sala pulu-pulu.
+difficulté à respirer qui persiste ou qui augmente.	Bokangami ya pema to pe pasi ya kopema ezo mata.
+respirer.	kopema.
+difficulté.	pasi.
+augmenter.	komata.
+augmente.	mata.
+lèvres bleues.	Bambebo ekomi bleu.
+lèvre.	mbebo.
+lèvres.	bambebo.
+la lèvre.	mbebo.
+les lèvres.	bambebo.
+difficulté à bouger.	pasi pona koningana.
+bouger.	koningana.
+difficulté à marcher.	pasi pona kotambola.
+marcher.	kotambola.
+fièvre chez un bébé de moins de 3 mois.	Moto ya fièvre epayi ya babebe ya se ya sanza misato.
+mois.	sanza.
+jour.	mokolo.
+année.	mbula.
+somnolence.	ko nimba nimba.
+somnoler.	konimba.
+confusion.	kobosana makambu.
+oublier.	kobosana.
+désorientation.	koyeba esika ozo kende lisusu te.
+difficulté à rester éveiller.	pasi na kozala ya kolamuka.
+mourrir.	kokufa.
+pedre la vie.	kokufa.
+arreter de respirer.	kokufa.
+absence d’urine depuis 12 heures.	Masuba ezali te tango molai bangonga 12 heures.
+décision.	monkano.
+je reste à la maison.	na tikali na ndaku.
+je reste à la maison.	na vandi na ndaku.
+Je suis les indications que l’on me donne.	na landi masungi bapesi na ngai.
+médecin.	monganga.
+docteur.	dokotolo.
+consultez votre medecin.	solola na monganga na yo.
+consultation.	kosolola na monganga.
+Soyez bien informé.	Tikala na boyebi.
+insomnie.	kozanga posa ya kolala.
+dormir.	kolala.
+sommeil.	pongi.
+insomnie.	kozanga pongi.
+insomnie.	bozangi pongi.
+carie.	bokono ya minu.
+malaria.	malaria.
+maladie du sommeil.	bokono ya pongi.
+maladie.	bokono.
+maladie à corona virus.	bokono ya korona.
+virus.	bokono.
+asthme.	bokono ya pema.
+asthmatique.	mobeli bokono ya pema.
+je suis asthmatique.	nabelaka bokono ya pema.
+moustique.	ngungi.
+anophele.	ngungi ya mwasi.
+agent causal.	mopesi bokono.
+agent vecteur.	momemi bokono.
+insalubrité.	bosoto.
+propeté.	bopeto.
+femme enceinte.	mwasi ya zemi.
+assemblee nationale.	lingomba lya bantoma ba ekolo.
+Donner.	kopesa.
+Donne.	pesa.
+donne-lui.	pesa ye.
+administer.	komelisa.
+piqure.	tonga.
+seringue.	tonga.
+piquer.	kotsuba.
+purger.	kotungola.
+comprimé.	kisi ya mbuma.
+comprimés.	bakisi ya mbuma.
+les comprimés.	bakisi ya mbuma.
+un comrimé.	kisi ya mbuma.
+le comprimé.	kisi ya mbuma.
+guérir.	kobika na bokono.
+guérison.	bobiki na bokono.
+guérison.	bobiki.
+guérir.	kobika.
+sirop.	kisi ya mayi.
+Depuis son indépendance, le 30 juin 1960, la République Démocratique du Congo est confrontée à des crises politiques récurrentes dont l'une des causes fondamentales est la contestation de la légitimité des Institutions et de leurs animateurs. Cette contestation a pris un relief particulier avec les guerres qui ont déchiré le pays de 1996 à 2003.	Banda tozwaki lipanda na mwa 30 sanza ya motoba mobu 1960, Ekolo nsomi ya Congo ekutani na mikakatano ndenge na ndenge mya politiki mpe myoko mya ntina ya mikakatano mina ezali koboya kondima bokonzi bopesami na mangomba ma boyangeli ekolo mpe bakambi ba bango. Boboyi bwango bobakisami na bitumba ndenge na ndenge biye bibebisi ekolo banda 1996 kino 2003.
+Les provinces et les entités territoriales décentralisées de la République Démocratique du Congo sont dotées dé la personnalité juridique et sont gérées par les organes locaux.	Bingumba mpe bituka biyangelami na Ekolo Nsomi ya Congo, bizwi makoki ma koyangela yango moko na mobeko mpe bikambemi na bato baye bazwami na bituka bike bia mboka. Bituka biina bia bonsomi bizali mboka mondele, komine, seketele mpe sefeli.
+La garde à vue ne peut excéder quarante huit heures. A l'expiration de ce délai, la personne gardée à vue doit être relâchée ou mise à la disposition de l'autorité judiciaire compétente. Tout détenu doit bénéficier d'un traitement qui préserve sa vie, sa santé physique et mentale ainsi que sa dignité.	Bokangemi bwa liboso bokoki koleka ngonga ntuku minei na mwambe te. Nsima ya ngonga ena, basengeli kotika mokangemi ona to komema ye na maboko ma bakati makambo ba solo. Mokangemi nyonso asengeli kozwa libateli lya bomoi bwa ye, bokolongon bwa nzoto ya ye, bwa molimo mpe bomoto bwa ye
+Les pouvoirs publics ont l'obligation de protéger la jeunesse contre toute atteinte à sa santé, à son éducation et à son développement intégral.	Bakonzi ba ekolo basengeli kobatela bilenge na maye matali bokolongonu bwa nzoto ya bango, ya bobokoli mpe bokolisi mobimba mwa bango. 
+Le droit à la santé et à la sécurité alimentaire est garanti.	Likoki lya bokolongonu bwa nzoto mpe lya bokengi bwa biloko bia bolei lindimami. 
+La loi fixe les principes fondamentaux et les règles d'organisation de la santé publique et de la sécurité alimentaire.	Mobeko mokolimbola makoki ma ntina mpe mitindo mia bobongisi bokolongonu bwa nzoto mpe bokengi bwa biloko bia bolei.  
+L'Etat veille à la protection de l'environnement et à la santé des populations.	Moto nyonso azali na makoki ma kobika na esika ya bopeto mpe ya esengo mpo ya botombwami bwa ye mobimba. L'Etat veille à la protection de l'environnement et à la santé des populations.	Azali na lisengeli ya kobatela yango. Leta ekobatela esika ya bofandi bwa bato mpe bokolongonu bwa nzoto. 
+Les conditions de construction d'usines, de stockage, de manipulation, d'incinération et d'évacuation des déchets toxiques, polluants ou radioactifs provenant des unités industrielles ou artisanales installées sur le territoire national sont fixées par la loi.	Ndenge ya kotonga izini, ya kobomba biloko bia bosangisi, ya kotumba mpe kolongola mpumbulu ya ngenge, ya bosoto bwa bitando, to ya ngenge iuti na izini minene to ya misala mia maboko mizali na mabele ma ekolo ibongisami na mobeko. 
+Toute pollution ou destruction résultant d'une activité économique donne lieu à compensation et/ou à réparation.	Botii bosoto bonso na bitando to bobebisi bouti na mosala mwa nkita esengeli kofutama to kobongisa yango. 
+La loi détermine la nature des mesures compensatoires, réparatoires ainsi que les modalités de leur exécution.	Mobeko mokotia lolenge ya meko ya bozongisi, bobongisi mpe bosaleli mitindo mina. 
+Une réaction chimique est une transformation de la matière au cours de laquelle les espèces chimiques qui constituent la matière sont modifiées : les espèces qui sont consommées sont appelées réactifs.	Bobongoli na shimi ezali bobongwami ya bisimbamaka. Na tango ya bobongoli esalamaka, bizali ya shimi lokola atomi, iyoni to molekili ebongwamaka. Biloko oyo ezalaki na ebandeli, babengaka yango bibongolana.
+Les espèces formées au cours de la réaction sont appelées produits de réaction.	Biloko oyo esalamaka, babengaka yango : bisalami.
+Le territoire de Bokungu est une entité déconcentrée de la province de Tshuapa en République démocratique du Congo.	Teritware ya Bokungu ezali moko ya bateritware ya etuká ya Tshuapa na ékolo Kongo-Kinshasa.
+Démographie.	Makambo etali bato.
+Références.	Mitindami.
+il semble que ce soit là le désir de tout un chacun , ou presque.	eyano emonani lokola ete , wana ezali mposa ya moto na moto to pene na bato nyonso .
+Or la solution la plus simple , dans l’esprit du public, est de gagner à la loterie ou au loto sportif.	Nzokande , na makanisi ya bato , nzela ya pɛtɛɛ mpo na kozwa yango ezali kolónga na loterie to na momekano ya kosakola liboso équipe ya ndembo oyo ekolónga.	
+Mais il n’a pas gagné.	Kasi azwaki libonza te.
+Outre l’attrait universel qu’exercent les loteries, une autre forme de jeu rencontre un succès grandissant : les machines à sous.	Longola loterie oyo ezali kobénda mposa ya bato na mokili mobimba , ezali na lisano ya motindo mosusu oyo ekómi kozwa lokumu mingi : bamasini ya masano ya mbongo.
+Dans beaucoup de pays, l’époque est révolue où les machines à sous étaient confinées dans les casinos.	Na mikili mingi , makambo masili kobongwana ; kala bamasini ya masano ya mbongo ebombamaki na bandako ya masano to ba casinos.	
+C’est notre amusement, notre occupation.	Ezali lisano na biso, mosala na biso. 		
+Je n'ai pas de voiture.	Nazali na motuka te.
+J'aimerais parler le lingala pour bien la connaître.	Na lingaka koloba Lingala, mpo na yeba yango malamu.
+Quel est ton nom ?	Nkómbó na yó náni?
+nom.	nkombo ya mboka.
+prenom.	nkombo ya ndaku.
+age.	mbula.
+Pardon. Quel est ton nom?	Limbisa ngáí. Nkómbó na yó náni?
+Si tu étais venu aujourd'hui, je t'aurais donné mille francs.	Sɔ́kɔ́ oyákí lɛlɔ́, mbɛlɛ napésákí yɔ́ nkámá mɔ́kɔ́.
+Mon fils est parti aujourd'hui.	Mwána na ngáí ya mobáli akeí lɛlɔ́.
+fils.	mwana.
+mon fils.	mwana na ngai ya mobali.
+son fils.	mwana na ye ya mobali.
+mon enfant.	mwana na ngai.
+ton fils.	mwana na yo ya mobali.
+ton enfant.	mwana na yo.
+son enfant.	mwana na ye.
+enfant.	mwana.
+enfants.	bana.
+les enfants.	bana.
+des enfants.	bana.
+ma fille.	mwana na ngai ya mwasi.
+fille.	mwana ya mwasi.
+ta fille.	mwana na yo ya mwasi.
+sa fille.	mwana na ye ya mwasi.
+femme.	mwasi.
+ma femme.	mwasi na ngai.
+ta femme.	mwasi na yo.
+sa femme.	mwasi ne ye.
+mon fils est malade.	mwana na ngai ya mobali azali kobela.
+mon fils est malade.	mwana na ngai ya mobali azali na bokono.
+ton fils est malade.	mwana na yo ya mobali azali kobela.
+ton fils est malade.	mwana na yo ya mobali azali bokono.
+mon enfant est malade.	mwana na ngai azali kobela.
+mon enfant est malade.	mwana na ngai azali na bokono.
+ton enfant est malade.	mwana na yo azali kobela.
+La femme est en face d'un gros rocher.	Mwásí azalí libosó ya libángá monɛ́nɛ.
+Les femmes sont en face de gros rochers.	Básí bazalí libosó ya mabángá mínɛ́nɛ.
+femme.	mwasi.
+la femme.	mwasi.
+les femmes.	basi.
+des femmes.	basi.
+Quelqu'un fermera la fenêtre.	Motu akofúnga lininísa.
+Certaines personnes fermeront les fenêtres.	Batu bakofúnga maninísa.
+Le garçon pose une question.	Mwána ya mobáli aákozóngisa na motúna.
+Le garçon pose une question.	Bána ya mibáli baákozóngisa na mitúna.
+C'est ma troisième semaine.	Óyo mpɔ́sɔ ya mísátu.
+Fais le tant que père est vivant.	Sala yangó na ntángo tatá azalí na bomɔi.
+La voiture de père est grise.	Mótuka bwa tatá eza mombwé.
+Le concours de l'État portera sur les angles aigus et les angles obtus.	Momekano mwa lɛ́ta ekozala ná mitúnu mipótú mpɛ́ mitúnu botúnú.
+Vieux balai sait tous les coins d’une chambre, mais le nouveau nettoie mieux.	Likɔ́mbɔ ya kala eyebí bitutú niɔ́nsɔ ya súku mɔ̌kɔ́ kasi óyo ya siká ekɔmbela koleka.
+Tu es toi.	Ozali yɔ̌.
+Mon cousin est le tailleur qui se trouve derrière l'école.	Ndeko na ngáí azalí montongi óyo azalí nsima ya etéyelo.					
+depuis combien ressentez-vous ces symptômes ?	bilembo oyo ewumeli mikolo boni ?
+et toutes les douleurs thoraciques doivent être traitées de cette manière , en particulier à votre âge.	mpe bampasi nyonso ya ntolo esengeli esalisama mpona kobika lolenge oyo mpona mibu na yo.
+et surtout si vous avez de la fièvre.	mpe elongo na fefele.
+et votre cholestérol et votre tension doivent également être contrôlés.	mpe esengeli kotala tansio ya cholesterole na yo.
+et avez-vous de la fièvre actuellement ?	mpe yo ozali na fefele sikoyo ?			
+et avez-vous l ’ un des symptômes suivants en plus de vos douleurs thoraciques ?	mpe ozali na moko ya basymptomi oyo elandi na mpasi na yo ya tolo?
+et je tousse aussi.	mpe nazali lisusu na kosukosu.
+buvez beaucoup de liquide aujourd ’ hui.	mela biloko ya mayi mingi lelo
+vous avez une toux sèche , un rhume , le nez qui coule , des vomissements , la diarrhée.	kozala na kosu-kosu ekawuka , grippe , pe zolo kotanga , kosanza , pulu-pulu.
+cependant je fais les tests pour le diabète.	kasi nde salisa tesite pona diabeti.
+cependant elle a des symptômes plutôt similaires aux miens.	kasi nde aza basymptomi ekokani kamwa na yanga.
+combien avez-vous de fièvre  ?	fievre nayo emati na niveau nini ?
+quelle est votre tension  ?	tansion nayo ya makila eza ndenge nini ?
+je ne pense pas faire de l ’ hypertension.	nakanisi te ete naza na tension ya makila.
+je ressens une douleur dans la poitrine ici à l ’ avant de la poitrine.	Nazo yoka pasi na kati ya tolo awa na ngambo ya liboso ya tolo.
+si vous avez toujours une forte fièvre.	soki ozo landela kaka koyoka bafievre emata.
+si vous avez cent-deux de fièvre ou plus.	soki ozali na fievre ya kama na mibale to likolo.
+si vous pensez que vos symptômes ou problèmes méritent d ’ être examinés de plus près.	soki okanisi ete basymptomi nayo ekomi mikakatano ezo senga batala yango malamu.
+j ’ ai eu de la fièvre hier.	nazalaki na fievre lobi loleki.
+j ’ ai eu aussi une légère fièvre.	naza na fievre moke lisusu.
+j ’ ai eu de la fièvre hier.	nazalaki na fievre lobi loleki.
+j ’ ai ressenti une brève douleur aiguë dans la poitrine.	naza na pasi ya songe nakati ya tolo nanga.
+j ’ ai ressenti une douleur aiguë ici dans la poitrine.	naza na pasi ya songe awa na kati ya tolo.
+mais j ’ ai le rhume des foins aussi.	naza pe na fievre ya foin lisusu.
+j ’ ai fait sur le corps autour de la poitrine  ?	naza na pasi na nzoto na ngambo ya tolo mobimba ?
+j ’ ai quelques difficultés à respirer aussi.	naza na kamwa pasi pe pona kopema.
+je vous enverrai une image.	na kotindela yo elili.
+j ’ ai mal à la poitrine aujourd ’ hui.	nazo yoka kamwa pasi na tolo mokolo ya lelo.
+j ’ ai des maux de tête et un peu de fièvre aujourd ’ hui.	nazo yoka moto kobeta kamwa na fievre mokolo ya lelo.
+selon moi c ’ est la grippe.	na ndenge nazo monela eza grippe.
+je pense que c ’ est une petite grippe.	na ndenge nazo monela oyo eza grippe moke.
+je vois que ça part du centre de votre poitrine et que ça remonte vers votre nuque.	nazo mona yango ozo kende banda kati-kati ya tolo nayo tii na likolo ya kingo nayo.
+nuque.	kingo.
+se faire vacciner.	kozua mangwele.
+poitrine.	tolo.
+c ’ est comme si une personne très lourde était assise sur votre poitrine?	ezo sala neti moto ya monene afandeli yo na tolo nayo ?
+ça a commencé par des maux de tête avec de la fièvre à peu près en même temps.	nionso ebandaki na moto pasi pe na fievre elongo tango moko
+ça fait mal dans la poitrine.	ezo swa kati ya tolo.
+ça fait mal au milieu de ma poitrine.	ezo swa na kati-kati ya tolo nanga.
+c ’ est une douleur oppressante dans la poitrine.	eza compression lokola pasi ya tolo.
+c ’ est dans ma poitrine.	eza nakati ya tolo nanga.
+c ’ est au centre de ma poitrine.	eza na kati-kati ya tolo nanga.
+c ’ est au centre de la poitrine.	eza na kati-kati ya tolo.
+ça se passe pile au centre de ma poitrine.	ezo sala na butu na kati-kati ya tolo nanga.
+c ’ est pile au centre de ma poitrine.	eza kaka na kati-kati ya tolo nanga.
+ça ressemble à un simple rhume ou à une grippe.	ezo yokama lokola oza kaka na malili lolenge ya grippe ya bilanga.
+j ’ ai une douleur dans la poitrine.	nazo yoka pasi na kati ya tolo nanga.
+cette douleur thoracique m ’ inquiète beaucoup.	nazo banga pona pasi ya tolo oyo.
+je veux que vous me décriviez cette douleur dans la poitrine.	nalingi olobela nga na bolimboli pasi ya tolo yango.
+je vous enverrai une image.	na kotindela yo elili.
+Événements système.	Nsango ya masi ́ ni.
+Message d' information.	Nsango ya boye ́ bisi.
+Message d' avertissement.	Nsango ya likébisi.
+Message d' erreur.	Nsango ya zíko.
+Dialogue d' interrogation.	lininísa ya motu ́ na.
+Message divers.	Nsango.
+L'enfant est à gauche de la maison.	Mwána azalí na lɔbɔ́kɔ́ ya mwásí ya ndáko.
+Les enfants sont à gauche de la maison.	Bána bazalí na lɔbɔ́kɔ́ ya mwásí ya ndáko.
+Quelqu'un fermera la fenêtre.	Motu akofúnga lininísa.
+Certaines personnes fermeront les fenêtres.	Batu bakofúnga maninísa.
+Le garçon pose une question.	Mwána ya mobáli aákozóngisa na motúna.
+Le garçon pose une question.	Bána ya mibáli baákozóngisa na mitúna.
+C'est ma troisième semaine.	Óyo mpɔ́sɔ ya mísátu.
+Alors, on pourrait se parler un de ces jours; mais là il faut que je me mette sérieusement au travail.	Malámu, mɔkɔlɔ níni tokosolola malámu, mpóo, naákokɛndɛ mbángu na mosálá.
+Balaie le sol.	Kɔ́mbá ndáko.
+Passe le balai.	Kɔ́mbá ndáko.
+Elle fait bouillir des œufs dans la cuisine.	Aákotɔkisa makeí na kúku.
+Il est parti pêcher.	Akeí ndɔ́bɔ.
+que chaque maman porte son enfant.	mama nioso amema mwana na ye.
+Tu viens d'où ? tu vas où ? tu es où ?	owuti wapi ? okei wapi ? ozali wapi ? 		
+Elle souffre de la maladie de ebola.	aza kobela bokono ya ebola.
+Ne frappe pas les enfants. Parle les calmement.	kobetaka bana te.solola na bango na lymemia.
+d'ici peu.	kala mingi te.
+A vendre.	yako teka.
+Il y a un produit.	Eza na kisi moko.
+injection.	tonga ya lisoko.
+Debout Congolais.	Telema mwana kongo.
+De leur point de vue, un médecin qui accepterait, aux termes d’un accord spécial, de ne pas administrer de sang, fût- ce dans une situation critique, ne respecterait pas les kojo ryozoku*, c’est-à-dire les normes de la société.	Balobaki ete monganga oyo ayokani na moto mpo ete azongisa ye makila te ata na ntango bomoi na ye ekómi na likama abuki oyo babéngi kojo ryozoku,* to mitinda ya bato.
+Unis par le sort.	Tosangnani na pasi.
+Unis dans l'effort pour l'indépendance.	Tosangani na bokasi po na bonsomi.
+Dressons nos fronts, longtemps courbés.	Tombola moto,Egumbama kala.
+Et pour de bon prenons le plus bel élan.	Po na yango tokomata lolenge malamu.
+Dans la paix.	Na kimia.	
+Ô peuple ardent.	Batu ya nguya.
+Elle avait fait confiance à l’équipe médicale ; elle avait cru que les médecins tiendraient leur parole et respecteraient ses convictions religieuses.	Atyelaki minganga motema, andimaki ete bakokokisa maloba na bango mpe bakotosa bindimeli ya lingomba na ye.
+Par le labeur.	Na mosala.
+Nous bâtirons un pays plus beau qu'avant.	Tokotonga mboka kitoko koleka.
+Dans la paix.	Na kimia.
+Malgré les progrès de la médecine, quantité de maladies entraînent toujours la cécité, la douleur et la mort.	Atako zébi ya monganga ekóli mingi, ebele ya bokɔnɔ ezali ntango nyonso komema kokufa-miso, mpasi mpe liwa.
+Citoyens.	Mwana mboka.
+Entonnez l'hymne sacré de votre solidarité.	Yemba nzembo,Nzembo ya lokumu na bino bosangani.
+Fier.	Lolendo.
+Fière.	Lolendo.
+Souveraineté.	Lolendo.
+Tu es.	Ozali.
+Tu es.	Oza.
+Solidarité.	Bosangani.
+Unité.	Bosangani.
+Unis.	Na bosangani.
+Dans l'unité.	Na bosangani.
+Uni.	Na bosangani.
+Unies.	Na bosangani.
+Fièrement.	Na lolendo.	
+Saluez l'emblème d'or de votre souveraineté.	kumisa,Bendele na yo ya tina ya bonsomi.	
+Congo.	Kongo.
+Don béni, Congo.	Kongo, Eloko epambwama.
+Don.	Likabo.
+Don.	Likabi.
+Béni.	Epambwama.
+Bénir.	Ko pambola.
+Bénie.	Epamwama.
+je bénis.	Na pamboli.
+il benit.	Apamboli.
+Des aïeux, Congo.	Kongo ya ba Koko.
+Ô pays, Congo.	Mboka Kongo.
+Bien-aimé, Congo.	Kongo elingama.
+aimé.	elingama.
+aimer.	Ko linga. 
+Nous peuplerons ton sol.	Toko tondisa mabele na yo.
+et nous assurerons ta grandeur.	Mpe toko batela monene ya yo.
+Trente juin, ô doux soleil.	Mokolo mua tuku misato, na sanza ya motoba.
+Trente juin, du trente juin.	Mokolo mua tuku misato, na sanza ya motoba.
+Jour sacré, soit le témoin.	mokolo mua lokumu, zala temoin.
+Jour sacré, de l'immortel.	mokolo mua lokumu.
+Serment de liberté.	Ndayi ya bonsomi.
+Que nous léguons	Toko tikela.
+À notre postérité	Ba kitani na biso.
+Pour toujours.	Po na libela.
+Zaire.	Mboka zaire.
+paix.	kimya.
+dignité.	limemya.
+dans la paix.	na kimya.
+dans la dignité.	na limemya.
+Uni.	Na lisanga.
+Zaïrois dans la paix retrouvée.	Bǎna mbóka Zaïre na kímyá tozalí.	
+Peuple uni, nous sommes Zaïrois.	Na lisangá lya bǎna mbóka, tozali bǎna mbóka Zaïre.	
+En avant fier et plein de dignité.	Na libóso, lolέndɔ mpé totónda na limεmya.
+Libre.	Na bonsomi.
+C’est d’ailleurs pourquoi les Témoins de Jéhovah recourent à la médecine moderne et à d’autres formes de traitements.	Nzokande, Batatoli ya Yehova bandimaka minganga básalisa bango mpe bándimaka bankisi mosusu.
+Peuple grand, peuple libre à jamais.	Bingambé bato, bato ba nsɔ́mi ya libélá.
+Peuple grand.	Bingame bato.
+A jamais.	Kino suka.
+A jamais.	Libela na Libela.
+épilepsie.	maladie ya ndeke.
+A jamais.	Na libela.
+Afin de bien choisir votre hôpital, votre médecin ou votre sage-femme, renseignez- vous au préalable.	Mpo na kopona lopitalo ya malamu, monganga ya malamu, to mwasi oyo ayebi kobotisa, tuná liboso bato oyo bayebi mpo básalisa yo.
+Tricolore.	Mikobo misatu.
+un.	moko.
+deux.	mibale.
+crise.	kokweya.
+Rendez-vous a été pris, et quelques jours plus tard Linda a rencontré un médecin pour une première consultation et un premier diagnostic.	Elaká epesamaki, mpe mwa mikolo na nsima, Linda akendeki mpo na mbala ya liboso kokutana na monganga mpe balukaki koyeba soki ezalaki maladi nini.
+De plus, il serait sage de demander à votre médecin ce qu’il vous faut savoir compte tenu de vos antécédents médicaux.	Lisusu, ekozala malamu osolola ná monganga na yo mpo na makambo oyo osengeli koyeba, oyo etali sante na yo.
+mort.	nkufa.
+garde-malade.	mokengeli mobeli.
+sage-femme.	mobotisi.
+Des patients ont du mal à se rappeler exactement ce que le médecin a dit après avoir donné son diagnostic.	Ndenge moko mpe, moto akoki te kozongisa na bosikisiki na makanisi makambo oyo monganga alobaki na ye nsima ya kosala ye ekzamɛ.
+gynécologue.	monganga ya basi.
+infirmière.	infirmiere.
+trois.	misatu.
+quatres.	mine.	
+cinq.	mitano.
+enfalamer.	Kopelisa.
+flame.	moto.
+feu.	mooto.
+tete.	moto.
+homme.	moto.
+homme.	mutu.
+mauvais homme.	mutu mabe.
+mavais homme.	moto mabe. 
+Tricolore, enflamme nous du feu sacré.	Mikóbo mísáto, pelisa bísó na mɔ̂tɔ mwa lotómo.
+Pour bâtir notre pays toujours plus beau.	Mpɔ̂ totónga ekólo na bísó kitɔ́kɔ ntángo ínsɔ.	
+Autour d'un fleuve Majesté.	Na nzínganzínga ya ebalé monɛnɛ.	
+Autour d'un fleuve Majesté.	Na nzínganzínga ya ebalé monɛnɛ.
+Tricolore au vent, ravive l'idéal.	Mikóbo mísáto na mopɛpɛ, lamusa iye isengeli izala.
+Qui nous relie aux aïeux, à nos enfants.	Iye isangisi bísó na bankɔ́kɔ mpé na bǎna ba bísó.	
+Paix, justice et travail.	Bobóto, Bosémbo mpé Mosálá.	
+Paix, justice et travail.	Bobóto, Bosémbo mpé Mosálá.
+Port du couvre-visage.	Kolata Ezipeli ya Elongi.
+Port.	Kolata.
+visage.	Elongi.
+hommes.	bato.
+Le 10 juillet 1990, trois médecins et une assistante sociale ont rencontré les parents de Brunella et deux ministres chrétiens de la congrégation des Témoins de Jéhovah.	Na Yulí 10, 1990, minganga misato mpe mwasi moko momonisi ya ebongiseli ekotalelaka mambi ya ezalela ya bomoi ya bato, bakutanaki na baboti ya Brunella elongo na basakoli mibale ya lisangá ya Batatoli ya Yehova ya mboka wana.
+poter.	Kolata.
+habit.	Elamba.
+couvre.	Ezipeli.
+couvir.	Kozipa.
+Garder.	Kobomba.
+Personne, ni maman, ni papa, ni même un médecin, ne doit jouer avec.	Moto moko te, ezala tata to mama, ata mpe monganga, akoki kosakana na yango.
+A Garder.	Ya ko bomba.
+Les médecins pensaient qu’un traitement prolongerait la vie d’Elisa de cinq ans seulement.	Minganga bakanisaki ete bankisi oyo bakopesa Elisa ekobakisela ye kaka mbula 5 ya bomoi.
+dans les lieux publics.	Esika ya bato.
+Avertissement.	Likebisi.
+Avertir.	Ko kebisa.
+Les enfants de moins de 2 ans.	Bana mike ose ya bambula mibale.
+enfant.	mwana.
+2 ans.	bambula mibale.
+1.	moko.
+2.	mibale.
+3.	misatu.
+4.	mine.
+5.	mitano.
+deux ans.	bambula mibale.
+an.	mbula.
+ans.	bambula.
+l'enfant.	mwana.
+un enfant.	mwana moko.
+un enfant.	mwana.
+des enfants.	bana.
+les enfants.	bana.
+petit.	mukie.
+petite.	mukie.
+petites.	mikie.
+petits.	mikie.
+petit enfant.	mwana mukie.
+petits enfants.	bana mikie.
+chose.	eloko.
+beau.	kitoko.
+grand.	monene.
+petit.	mukuse.
+Une situation pareille avait été observée pour le diagnostic du SRAS.	Likambo ya ndenge moko esalemaki mpo na koyeba SARS.		
+Ainsi,la combinaison des antécedents médicaux, des manifestations cliniques, des tests de laboratoire et des examens radiologiques est essentielle et impérative pour établir un diagnostic efficace.	Yango wana, kosangia masolo ya maladi oyo, ndenge ebimaki, baekzamee ya laboratoire, mpe makambo bamonaki na radiographie eza ntina mingi mpe ekosalisa mpo na koyeba makasi diagnostique.
+diagnostique.	diagnostiki.
+efficace.	makasi.
+fort.	makasi.
+forte.	makasi.
+forts.	makasi.
+fortes.	makasi.
+c'est fort.	ezali makasi.
+est.	ezali.
+Il est à espérer que cette nouvelle technique permette d'améliorer considérablement la sensibilité et la praticité, si son utilisation sur des spécimens cliniques s'averait concluante.	Tozolikya ete; mayele oyo ya sika ekoki kobongola makasi sensibilite mpe lolenge malamu ya kosalela yango, soki endimami nsima ya kotalela yango.
+espérer.	kolikya.
+espérance.	elikya.
+nous espérons.	tozo likya.
+il espère.	azo likya.
+améliorer.	kobongola.
+après.	na nsima.
+après.	na sima.
+En raison du manque d'expérience vis-à-vis du nouveau coronavirus.	Na ntina ya bozangi boyebi malamu ya bokono ya korona virus.
+corona virus.	korona virus.
+raison.	ntina.
+nouveau.	ya sika.
+nouvelle.	ya sika.
+nouveaux.	ya sika.
+nouvelles.	ya sika.		
+les médecibs ne peuvent qu'offrir des soins de soutien aux patients atteints de la covid-19.	Minganga bakoki kaka kosalisa mwa moke bato oyo bazobela bokono ya korona virisi.
+covid-19.	korona virus.
+corona virus.	korona virus.
+Tout en essayant une variété de thérapies ayant déjà été utilisées ou proposées pour le traitement d'autres coronavirus.	Ntango bazo zelaa bankisi mingi oyo basi basalela to oyo bazalaki kokanisa liboso kosalela mpona kobikisa bato ya korona mosusu.
+Tels que le SARS-CoV et le MERS-Cov.	Na ndakisa SARS-Cov mpe Mers-Cov.
+Ainsi que d'autres maladies virales.	Mpe ba bokono mosusu ewuti na ba virisi.
+Ces thérapies incluents les traitements existants et potentiels avec des médicaments antiviraux.	Ba kisi yango eza ba kisi ya sika te mpe oyo ba koki kosalela oyo eza na kisi ya ba mbuma.
+comprimé.	kisi ya mbuma.
+les immunosuppresseurs.	immunosuppresseurs.
+les stéroides.	ba steroides.	 
+aspirine.	aspirini.
+Donne-lui une aspirine.	pesa ye mbuma ya aspirini.
+Donne-lui un comprimé d'aspirine.	pesa ye mbuma moko ya aspirini.
+pacétamol.	paracetamoli.
+Donne-lui un comprimé de paracétamol.	pesa ye mbuma moko ya paracetamoli.
+Le plasma de patients rétables.	plazma ewuti na bato ba biki na bokono.
+La médecine chinoise.	nkisi ya bakoko ya mboka sini.
+chinois.	bato ya mboka sini.
+chine.	mboka sini. 
+Pour enrichir le sang de la patiente, le médecin peut recommander la prise d’acide folique et d’autres vitamines du groupe B, ainsi que des compléments en fer.	Mpo na komatisa makila ya mwasi ya zemi, monganga akoki kosɛnga ye amɛla nkisi, na ndakisa acide folique, bavitamini B mosusu mpe biloko mosusu oyo ekoki komatisa makila na ye.
+Ainsi qu'un soutien psychologique.	lisalisi ya minganga ya moto.
+soutien.	Lisalisi.
+aide.	Lisalisi.
+Voici ce qu’on pouvait lire dans une brochure publiée par la faculté de médecine de Harvard : “ Des dizaines d’études ont montré que les gens qui bénéficient d’un soutien relationnel — c’est-à-dire qui ont de bonnes relations avec leur famille, leurs amis et leur entourage — sont plus heureux, ont moins de soucis de santé et vivent plus longtemps. ”	Buku moko oyo minganga ya Iniversite ya Harvard (États-Unis) babimisaki elobi boye: “Baankɛti mingi emonisi ete bato oyo bayokanaka malamu na basusu —libota na bango, baninga na bango, bato ya mboka oyo bafandi —bazalaka na esengo, babɛlaka mingi te, mpe baumelaka mingi na mokili.”
+Meme le plasma de patients rétablis a été proposé à des fins de traitement.	Balobaki bakoki kosalela ata plazma oyo ewuti na moto abiki lokola nkisi.
+Les compagnies pharmaceutiques s'emploient toutes à développer des anticorps et des vaccins contre le virus.	Ba kompani oyo esalaka ba kisi bazosala maksi mpo na kosala ba kisi pe mangwele ya virisi oyo.
+vaccin.	mangwele.
+vaccination.	bo pesi mangwele.
+Mais avant de presser votre médecin de vous signer une ordonnance, il faut savoir que toute médaille a son revers.	Nzokande, liboso ete okenda epai na monganga mpo na kotuna lisalisi, talelá matomba mabe ya antibiotiques.
+Finalement, un médecin a diagnostiqué une mucoviscidose.	Nsukansuka, monganga moko amonaki ete nazali na maladi ebengami mucoviscidose.
+Néamoins.	Atako bongo.
+un dysfonctionnement et une insuffisance respiratoires constituents la principale menace pour les patients.	Mpasi ya kopema mpe kobungisa makanisi eza makama minene pona babeli.
+ménace.	likama.
+ménaces.	makama.
+en bonne santé.	na nzoto kolongono.
+santé.	kolongono ya nzoto.
+Et la principale cause de décès.	Ezali yango nde ezo boma mingi.
+Ainsi.	Yango wana.
+Ansi.	na boye.
+une assistance respiratoire est essentielle pour soulager symptomes.	Kosalisa na kopema eza ntina mingi pona kolembisa bilemboya bokono.
+sauver des vies.	kobikisa bato.
+sauver.	kobikisa.
+il a été sauvé.	abikisamaki.
+cela inclut une oxygénothérapie.	etatleli kopesa oxygene lokola kisi.
+une oxygénothérapie à débit élevé.	kopesa oxygene mingi.
+une ventilation invasive.	kokotisa mopepe	kozanga kokotisa eloko na nzoto ya moto.
+corps.	nzoto.
+bonne santé.	nzoto malamu.
+bonne santé	nzoto kolongono.
+je suis.	nazali.
+tu es.	ozali.
+il est.	azali.
+elle est.	azali.
+nous sommes.	tozali.
+Le premier documentaire, Stratégies alternatives à la transfusion : simples, sûres, efficaces, est destiné aux médecins et aux étudiants en médecine.	Kasɛti-video oyo ezali na motó ya likambo: Stratégies alternatives à la transfusion: simples, sûres, efficaces, ebongisamaki mpo na minganga mpe bana-kelasi oyo batángaka kelasi ya minganga; yango wana, ezali na bililingi mingi ya mapaso koleka bakasɛti-video mosusu wana mibale.
+vous etes.	bozali.
+ils sont.	bazali.
+elles sont.	bazali.	
+les patients souffrant de graves symptomes respiratoires doivent recevoir une oxygénation par membrane extracorporelle.	Babeli baza na mpasi ya makasi ya kopema basalisaki bango na eloko moko oyo ekotisaka oxygene.
+Cependant, la protéine S du SARS-CoV-2 se lie à l’ACE2 humain moins fortement que celle du SARS-CoV, ce qui coïncide avec le fait que le SARS-CoV-2 cause une infection moins importante que le SARS-CoV.	Kasi, proteine S ya SARS-CoV-2 ekangami makasi te na ACE2 ya bato koleka ya SARS-CoV, oyo eyokani na likambo oyo ete SARS-CoV-2 ezopesa bato maladi ya makasi te lokola SARS-CoV.
+La COVID-19 actuelle constitue donc la troisième épidémie de coronavirus de l’Histoire récente.	Yango wana, COVID-19 ya sikoyo eza CoV ya misato oyo ebima na lisolo ya bomoi ya bato.				 	
+Entre-temps, l’épidémie s’était rapidement propagée aux villes, provinces et pays voisins.	Na ntango wana, maladi yango ezalaki kopanzana noki na bingumba, na bituka mpe na mikili ya pene.
+Il est couramment admis que les personnes exposées à un grand nombre de virus ou dont les fonctions immunitaires sont compromises sont plus à risque d’être infectées que les autres.	Mbala mingi bato oyo bakutanaka na bavirisi mingi to oyo mikrobe na bango oyo ebundisaka maladi elemba, baza na likama mingi ya kozwa maladi oyo koleka bato mosusu.
+Généralement, les personnes exposées à, ou infectées par, le virus sont mises en quarantaine pendant 14 jours.	Ndenge esalemaka mbala mingi, mpo na bato oyo bakutanaki na bato ya maladi oyo to baza na maladi yango, virisi wana esengaka ete batya yango na quarantaine mikolo 14.
+Il est à espérer que cette nouvelle technique permettra d’améliorer considérablement la sensibilité et la praticité, si son utilisation sur des spécimens cliniques s’avérait concluante.	Tozolikya ete, mayele oyo ya sika ekoki kobongola makasi sensibilite mpe lolenge malamu ya kosalela yango, soki endimami nsima ya kotalela yango.	
+Comme l’a montré l’expérience de la pandémie de H1N1 de 2009, les INP peuvent constituer un élément essentiel de l’atténuation d’une pandémie.	Ndenge makambo esalemaki na maladi ya 2009 H1N1 emonisi yango, NPIs ekoki kosalisa mingi na kolembisa maladi mabe.
+Ces techniques sont hautement parallélisables et sont appliquées avec succès dans plusieurs domaines, notamment la modélisation de la transmission de maladies.	Mayele ya boye ekoki kosalisa na kosala bokokanisi mpe basi basalela yango na ba domaine mingi ata mpe na koyeba ndenge maladi elongwaka na moto moko mpe epesamaka na moto mosusu.
+Nous n’identifions pas de risque accru lié à la participation des cabinets et des médecins à cette surveillance.	Tozomona te bokoli ata ya likama moko na ndenge minganga to ba infirmier ya sika bazosangana na bokengeli oyo.
+Les recommandations en matière de prévention et de contrôle des infections suivront les directives nationales en vigueur.	Kokanga maladi nzela mpe batoli ya kobatela yango ekosalema na kolanda litambwisi ya mboka.	
+Antécédents de voyages et descripteurs cliniques des infections au COVID-19.	Lisolo ya mobembo mpe ndenge ya kolimbola maladi ya COVID-19.
+Mise en place de l’échantillonnage virologique étendu.	Kokomisa molai virologie ya ba echantillon.
+Ce protocole décrit la manière dont nous avons adapté un système de surveillance national de la grippe afin de surveiller la propagation communautaire d’une infection inattendue au COVID-19.	Metode oyo ezolimbola ndenge tomesana na systeme ya bokengeli ya grippe mpo na kolandela kopanzana ya COVID-19 na ndenge eyebani te.
+En particulier, son taux de propagation, à la fois temporelle et géographique.	Mingimingi, taux ya kopanzana na yango, na mokili mpe na bamboka.
+L’épidémiologie du COVID-19 reste nouvelle.	Maladi ya COVID-19 eza kaka makasi.
+Un total de 17 décès a été enregistré.	Bato 17 bakufi.	
+Le principal traitement est une thérapie symptomatique et de support.	Liboso bako salisa basymptom mpe kosunga yo obika.
+Les mesures préventives recommandées comprennent se laver les mains, se couvrir la bouche pour tousser, rester à distance des autres personnes, ainsi que surveiller et confiner les personnes suspectées d’être infectées.	Mpona kosukisa maladi esengeli yo osokola maboko, kanga zolo to monoko soki ozali kokosola, fanda mosika na bato, mpe kososola na komona ba oyo bazali na konfinema mpo ete bazalaki esika moko na moto oyo azwaki maladi yando.													
+Les autorités de santé à Wuhan, en Chine (la capitale de la province du Hubei) ont signalé un foyer de cas de pneumonie de cause inconnue le 31 décembre 2019, et une enquête a été ouverte début janvier 2020.	Bakonzi na Wuhan, Chine (egumba ya monene ya Hubei) bamonaki kobela mingi ya pneumonia mokolo ya 31 sanza ya zomi na mibale 2019, mpe etid ebandaki mpona kososola yango ebandeli ya sanza ya liboso 2020.	
+Par la suite, on a découvert que la première personne connue ayant présenté des symptômes était tombée malade le 1er décembre 2019, et cette personne n’avait pas de lien manifeste avec le foyer ultérieur du marché de produits frais.	Moto ya liboso oyo azalaki na basymptomi abelaki mokolo ya 1 sanza ya zomi na mibale na 2019, mpe moto wana bayebaki te soki ye awutaki nzando wana.
+Les autres indicateurs sont le taux de létalité (taux de létalité), qui représente le pourcentage de personnes diagnostiquées qui succombent à une maladie, et le taux d’infection (taux d’infection), qui représente le pourcentage de contaminés (diagnostiqués et non diagnostiqués) qui succombent à une maladie.	Ba ndenge misusu ezali limero y aba oyo bakufi (CFR), oyo elakisi pourcentahe y aba oyo bazalaki na malady mpe bakufi, mpe limero y aba oyo bazali na malady (IFR) oyo etali pourcentage y aba oyo bazali na maladi (oyo ekzame elobi) mpe bakufi na malady.
+Plusieurs scientifiques ont tenté de calculer ces chiffres pour des populations spécifiques.	Ba academi mingi emeki komona ba limero oyo mpona ba population ebele.	
+Ces statistiques ne sont pas limitées dans le temps et suivent une population spécifique de la contamination au terme de la maladie.	Ba statistic oyo ezali ya ngonga moko te, elandi ndege nini makambo ezali kokende na mokili mpe na population.	
+Les symptômes courants incluent fatigue, production de sécrétions respiratoires (mucosités), perte de l’odorat, essoufflement, douleurs musculaires et articulaires, mal de gorge, céphalées, frissons, vomissements, hémoptysie, diarrhée, ou cyanose.	Bilembo ya mikie lokola bolembu ya nzoto, maladi ya mpema, kobungisa ya koyoka solo, mpeka ya kokatana, mpasi na mikua, engine, motu mpasi, malili na kolenga ya nzoto, hemoptysis, pulupulu, to cyanosis.
+La période d’incubation habituelle (le délai entre la contamination et l’apparition des symptômes) oscille entre un et 14 jours ; elle est plus souvent de cinq jours.	Ntango ya kisi mpona kokota malamu (Ntango maladi esimbi moto mpe basymptomi ebandi koyaka) ezali mokolo moko to 14; mingi-mingi ezali mikolo mitano.
+On pense qu’il serait d’origine zoonotique.	Balobi ete ekoki kowuta esika ya banyama.
+Généralement ce test est effectué sur un prélèvement de rhinopharynx mais on peut aussi utiliser un prélèvement de gorge.	Kasi baekzame oyo esalemi ya kotoka mayi ya zolo mpe ya kati ya mongongo.
+Plusieurs laboratoires et entreprises développent actuellement des tests sérologiques, qui détectent les anticorps.	Balaboratoir mingi na bacompani bazali kosala baekzame ya serological oyo ekomona ba anticorps.
+On a recommandé à ceux qui auraient déjà été contaminés de porter un masque chirurgical en public.	Ba oyo bakoki kozala na malady esengeli balata mask na libanda ya ndako.
+Des mesures de distanciation physique ont aussi été recommandées pour empêcher la transmission.	Kofanda mosika na bato mpe.
+Cela signifie que le virus se répand dans les communautés, et certains membres de ces communautés ne savent pas où ni comment ils ont été contaminés.	Oyo elingi koloba ete virisi ezali kopanzana kati na bato na lingomba, magonba misusu ba yebi te ndenge nini to wapi bazalaki maladi.
+On conseille aux professionnels de santé qui s’occupent de quelqu’un qui pourrait être infecté de prendre les précautions habituelles ainsi que les précautions de contact, et de porter des lunettes de protection.	Banganga oyo bazali kosalisa bato ya kobela esengeli basalisa toli ya kobatela nzoto na kofanda mosika mpe kobatela miso.
+La recherche des contacts est une méthode importante pour que les autorités de santé puissent déterminer la source d’une infection et prévenir les futures transmissions.	Kolanda ya bato ezali ntina makasi mpona mikonzi na koyeba esika oyo maladi euti mpona kosukisa yango.
+Il n’existe pas de vaccin contre la COVID-19, mais beaucoup d’organisations s’efforcent actuellement d’en développer un.	mangwele pona COVID-19 ezali te, kasi ba organization mingi bazali kosala mosala mpona ete ezala.
+Il est conseillé de se laver les mains pour empêcher la propagation de la maladie.	Kosokola maboko esengami mpona kopekisa ete malady epanzana na bato.
+Ils sont très présents au Moyen-Orient et en Afrique.	Ils sont très présents au Moyen-Orient et en Afrique.
+Plusieurs CoV zoonotiques circulent dans la nature.	Mingimingi, CoVs ya banyama oyo ekoki kobima na lolenge mingi mpenza.
+Que sait-on à ce sujet ?	Nini tosi toyebi mpo na likambo oyo?
+Des rapports provenant de Chine et d’Italie suggèrent que les facteurs de risque de contracter une forme grave de la COVID-19 incluent des problèmes de santé sous-jacents, mais aucune donnée relative aux problèmes de santé sous-jacents des patients américains atteints de la COVID-19 n’a encore été rapportée.	Barapore babimisi oyo euti na Chine mpe na Italie emonisi ete makambo ya minene oyo ekoki kosala ete moto abela makasi maladi ya COVID-19 eza na ndakisa soki azalaki deja kobela kala, kasi bansango oyo ezolimbola maladi wana na kati ya bato ya États-Unis bazobela COVID-19 eyebisami nanu te.
+Que nous apprend ce rapport ?	Nini ebakisami na rapore oyo?
+Elles jouissent de la libre administration et de l'autonomie de gestion de leurs ressources économiques, humaines, financières et techniques.	Bituka bizali na bonsomi bwa kokamba misala mia Leta mpe bizwi ndingisa ya bosaleli makoki ma nkita, ma bato, ma misolo ma nzebi to ma tekiniki. 
+La composition, l'organisation, le fonctionnement de ces entités territoriales décentralisées ainsi que leurs rapports avec l'Etat et les provinces sont fixés par une loi organique.	Boyangeli, bobongisi mpe botambwisi bituka bozwi makoki ma komikonza, mpe boyokani bwa bango na Mbula Matari ya ekolo mpe bingumba bobongisami na mobeko mosusu molimbolami malamu.  
+Quelles sont les implications pour la pratique de santé publique ?	Mosala ya bato oyo basalisaka bato ekozala nini?
+Nous publions également un rapport annuel.	Tosalaka mpe rapore ya nsuka-mbula.	
+Pays étrangers visités au cours des 28 derniers jours.	Mikili ya bapaya oyo bakendaki kotala na mikolo 28 oyo eleki.
+Le pluralisme politique est reconnu en République Démocratique du Congo.	Bosali mangomba mayike ma politiki bondimami na Ekolo Nsomi ya Congo.
+Tout Congolais jouissant de ses droits civils et politiques a le droit de créer un parti politique ou de s'affilier à un parti de son choix.	Mwana Congo nyonso oyo azali na makoki ma mwana mboka mpe ma politiki akoki kokela lingomba lya politiki to kokota na liye ye moko aponi. 
+Les partis politiques concourent à l'expression du suffrage, au renforcement de la conscience nationale et à l'éducation civique. Ils se forment et exercent librement leurs activités dans le respect de la loi, de l'ordre public et des bonnes mœurs.	Mangomba ma politiki makolanda boponi bwa bato banso, makokolisa boyebi mpe boteyi bato na maye matali ekolo. Bakomipesa mateya mpe bakosala na bonsomi misala mia bango na botosi mobeko, na botii kimia na ekolo mpe na mimeseno malamu.
+Les partis politiques sont tenus au respect des principes de démocratie pluraliste, d'unité et de souveraineté nationales.	Mangomba ma politiki masengeli kotosa mibeko mia bokonzi bouti na bato botali mangomba mayike, bomoko mpe bokonzi bwa ekolo.  
+Les partis politiques peuvent recevoir de l'Etat des fonds publics destinés à financer leurs campagnes électorales ou leurs activités, dans les conditions définies par la loi.	Mangomba ma politiki makoki kozwa mosolo polele mwa Leta mpo ya kofuta misala mia bango, mia maponami to misala misusu engebene na lolenge mobeko mobongisi. 
+Nul ne peut instituer, sous quelque forme que ce soit, de parti unique sur tout ou partie du territoire national.	Moto moko te akoki kosala, ata mbala moko te, lingomba se yoko ya politiki na etando mobimba to na eteni yoko ya mabele ma ekolo. 
+L'institution d'un parti unique constitue une infraction imprescriptible de haute trahison punie par la loi.	Kosala lingomba se yoko ezali kobuka mobeko mwa koteka ekolo moye mobeko mokopesa etumbu. 
+punition.	etumbu.
+pluie.	mbula.
+Mes parents appartenaient aux milieux de l’éducation, de la politique et de la médecine.	Baboti na ngai batángaki mingi, bayebaki makambo ya politiki mpe ya monganga.
+Une loi organique détermine le statut de l'opposition politique.	Mobeko mwa kolimbola malamu mokobongisa motindo bombanda bwa politiki bokosalema. 
+Les modalités de gestion et de concession du domaine de l'Etat visé à l'alinéa précédent sont déterminées par la loi.	Ndenge ya boyangeli mpe bopesi matomba na mabele ma Leta engebene na makanisi ma mokoloto moye mwa liboso ebongisami na mobeko.
+La nationalité congolaise est soit d'origine, soit d'acquisition individuelle.	Bonsomi bwa Congo bokoki kozala bwa libandela to bwa kozwa na moto ye moko.
+Une loi organique détermine les conditions de reconnaissance, d'acquisition, de perte et de recouvrement de la nationalité congolaise.	Mobeko mwa kolimbola malamu mokobongisa lolenge ya bondimi, ya bozwi, ya bozangi mpe ya bozongeli bonsomi bwa Congo.  
+Tous les êtres humains naissent libres et égaux en dignité et en droits.	Bato banso babotami na bonsomi mpe bakokani na limemia mpe na makoki.
+Toutefois, la jouissance des droits politiques est reconnue aux seuls Congolais, sauf exceptions établies par la loi.	Nzokande, kozala na makoki ma politiki, epesami se na bana Congo mei, longola se maye malobami na mobeko-monene. 
+Tous les Congolais sont égaux devant la loi et ont droit à une égale protection des lois.	Bana Congo banso bazali ndenge moko liboso lya mobeko mpe bazali na makoki ndenge moko ya kobatelama na mibeko.
+Les pouvoirs publics veillent à l'élimination des violences sexuelles.	Bakonzi ba ekolo bakoluka kosukisa bobundisi mwasi na ndenge ya kosangisa na ye nzoto na makasi, bosangisi boye bokomi lokola mbeli ya bobebisi mpe bokaboli mabota. 
+La liberté des réunions pacifiques et sans armes est garantie sous réserve du respect de la loi, de l'ordre public et des bonnes mœurs.	Bonsomi bwa masanga ma kimia bosalemi na mindoki te bondimami engebene na botosi mobeko, kimia ya mboka mpe mimeseno malamu
+La personne humaine est sacrée. L'Etat a l'obligation de la respecter et de la protéger.	Moto nyonso asengeli na limemia. Leta azali na lotomo ya kotosa mpe ya kobatela ye.
+Tester la mise en œuvre d’un système de collecte de sérums de patients convalescents avec des profils d’anticorps parmi les cas rétablis de COVID-19 renvoyés dans la communauté.	Mpo na kolandela mayele ya kosangisa bansango ya bato bazobika na sera oyo baza na ba anticorps na kati ya bato oyo babika na COVID-19 oyo babima lopitalo na mboka.
+vaccin.	mangwele.
+Les médecins n’ont pas trouvé ce qu’il avait.	Minganga bamonaki maladi na nzoto na ye te.	
+Pour conclure, nous espérons l’émergence de preuves plus directes et nous demandons aux lecteurs de transmettre leurs commentaires.	Mpona kosukisa, toza na elikia ete ba evidence ya libela ekobakisama pe ebengi batangi bapesa ndenge bamoneli.
+En ce qui concerne le diagnostic des « cas suspects » et des « cas confirmés », nous leur suggérons de suivre et de respecter les directives les plus récentes dans leur pays.	Mpona diaginositiki ya “cas ekaniselami” pe “endimami” tozo belela kolanda pe kotosa nde masungi yasika mazo uta na bikolo na bango.
+Notre équipe mettra également à jour en temps opportun notre directive pour offrir son aide.	Lisanga nabiso pe ekosala mis a jour na tango ekoka lisungi nabiso pona kopesa lisalisi.			 													
